@@ -1,6 +1,7 @@
 package org.dii.oop.lesson06.exercise01;
 
 public abstract class Shape {
+
     private String name;
     private int numSide;
 

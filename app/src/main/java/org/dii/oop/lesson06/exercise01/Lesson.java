@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Lesson {
+
     private static ArrayList<Shape> shapes = new ArrayList<>();
     public static void run() {
 

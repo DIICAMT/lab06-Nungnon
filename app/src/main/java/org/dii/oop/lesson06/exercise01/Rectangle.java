@@ -2,6 +2,7 @@ package org.dii.oop.lesson06.exercise01;
 
 public class Rectangle extends Shape {
 
+
     private double width;
     private double height;
 
